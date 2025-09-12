@@ -15,4 +15,3 @@ class CheckLoginMiddleware:
 
         response = self.get_response(request)
         return response
-
